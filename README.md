@@ -23,7 +23,7 @@ pip3 install pandas matplotlib seaborn plotly
 To run the script, use the following command:
 
 ```bash
-python pheno_analyisis_5.py pheno.csv
+python pheno_analyisis_5.py phenotype_data.csv
 
 ```
 
